@@ -13,6 +13,6 @@
 - [CRM gestión de expedientes](enlace) - He elaborado un CRM básico especializado en despachos de abogados/asesoría. El lenguaje utilizado es **Python**, y la función es la creación y gestión de expediente, así como clientes, contrarios y abogados de la parte contraria. Como base de datos he utilizado SQLite, también he utilizado para el proyecto y creación de la interfaz gráfica, la importación de las librerías de **PyQt6**. Todo es modularizado a través de ficheros .py, para que sea más legible el código, también he implementado una agenda funcional, para realizar anotaciones y búsquedas a registros de actuaciones o citas con clientes. 
   
 ## Contacto
-- 📫 Si quieres contactar conmigo, puedes enviarme un mail a mi correo: isma_15_48@hotmail.com
+📫 Si quieres contactar conmigo, puedes enviarme un mail a mi correo: isma_15_48@hotmail.com
 
 ¡Gracias por visitar mi perfil! 🚀
