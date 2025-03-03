@@ -3,7 +3,7 @@
 - 🌱 Actualmente estoy cursando el segundo año de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
 ## Lenguajes y Tecnologías
-- **Lenguajes** Estoy  adquiriendo conocimientos diversos de varios lenguajes y tecnologías. 
+- **Lenguajes:** Estoy  adquiriendo conocimientos diversos de varios lenguajes y tecnologías. 
  Actualmente desarrollando en **Java** y **Python**, También he visto principios básicos de **C#**. 
 - **CMS:** Wordpress. He diseñado diversas páginas webs con Wordpress, modificando estilos **CSS**, instalación de plugins, realización de posicionamiento orgánico (**SEO**) a través de la redacción de artículos, optimización de la web, trabajo en palabras claves...
 - **HTML y CSS:** También puedo elaborar webs mediante el lenguaje de marcas HTML, así como la aplicación de estilos (**CSS**), **RRSS**.
